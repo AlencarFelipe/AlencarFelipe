@@ -1,40 +1,18 @@
-<h1 align="left">Backend Developer in training 🚀</h1>
+<h1 align="left">Backend Developer in training </h1>
 
 ###
 
-<p align="left">
-Hi, I'm Victor Alencar<br>
-📍 São Paulo, Brazil <br>
-🎓 Studying Systems Development
-</p>
+
+<p>👨‍💻 Software Engineering Intern at <a href="https://www.itau.com.br/" target="_blank">Itaú Unibanco</a></p>
+<p>🎓 Analysis and Systems Development student at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a></p>
+<p>☁️ AWS Academy Graduate - <a href="https://www.credly.com/badges/477b2fdf-743f-4c7d-98ab-fb5d90ae09ce/public_url" target="_blank">Cloud Foundations</a></p>
+<p>💻 Focused on Java, Spring Boot and Software Engineering fundamentals</p>
+<p>🚀 Building basic APIs with Java and Spring Boot</p>
+
+<hr>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-💻 Focused on backend development with Java<br>
-📚 Currently learning Spring Boot and AWS<br>
-🚀 Building practical projects to gain real-world experience<br>
-🔧 Background as Electronics Technician
-</p>
-
-###
-
-<h2 align="left">Main Project</h2>
-
-###
-
-<p align="left">
-💰 Finance API (Java + Spring Boot)<br>
-- RESTful API development<br>
-- CRUD operations<br>
-- Database integration
-</p>
-
-###
 
 <h2 align="left">Technologies</h2>
 
